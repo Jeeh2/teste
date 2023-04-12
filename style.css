@@ -1,0 +1,125 @@
+
+.container{
+    display: flex;
+    text-align: center;
+    
+}
+
+nav{
+    position: absolute;
+    width: 1440px;
+    height: 108px;
+    left: 0px;
+    top: 0px;
+    background: #164C64;
+}
+
+nav ul{
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li{
+    display: inline;
+
+}
+
+nav ul li a{
+    font-size: 20px;
+    font-family: 'Open Sans';
+    color: #F8F8F8;
+    transition: background .4s;
+    padding: 100px;
+    text-decoration: none;
+
+}
+
+.famosos{
+    position: absolute;
+    width: 400px;
+    height: 473px;
+    left: 140px;
+    top: 330px;
+    border-radius: 5px;
+}
+
+.filmes{
+    position: absolute;
+    width: 440px;
+    height: 233px;
+    left: 600px;
+    top: 330px;
+    border-radius: 5px;
+}
+
+.series{
+    position: absolute;
+    width: 440px;
+    height: 233px;
+    left: 600px;
+    top: 570px;
+    border-radius: 5px;
+}
+
+#BBN{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 26px;
+    line-height: 35px;  
+    color: #FFFFFF;
+    position: absolute;
+    width: 379px;
+    height: 105px;
+    left: 143px;
+    top: 702px;
+
+}
+
+#FilmeN{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 26px;
+    line-height: 35px;
+    color: #FFFFFF;
+    position: absolute;
+    width: 410px;
+    height: 70px;
+    left: 603px;
+    top: 464px;
+}
+
+#seriesN{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 26px;
+    line-height: 35px;
+    color: #FFFFFF;
+    position: absolute;
+    width: 410px;
+    height: 70px;
+    left: 603px;
+    top: 704px;
+
+}
+
+footer{
+
+    position: absolute;
+    width: 1440px;
+    height: 188px;
+    left: 0px;
+    top: 846px;
+    background: #164C64;
+
+}
+
+#Lin{
+
+    width: 34px;
+    height: 34px;
+    left: 572px;
+    top: 940px;
+}
